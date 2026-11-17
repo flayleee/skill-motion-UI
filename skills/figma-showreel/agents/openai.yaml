@@ -1,4 +1,4 @@
 interface:
   display_name: "Figma Showreel"
-  short_description: "Из Figma в рабочий флоу, запись и шоурилл"
-  default_prompt: "Используй $figma-showreel: реализуй дизайн из Figma, выполни заданный мной флоу и создай чистую запись и смонтированный шоурилл."
+  short_description: "Код из Figma и динамичный монтаж на однотонном фоне"
+  default_prompt: "Используй $figma-showreel: реализуй дизайн из Figma, выполни заданный мной флоу и выдай рабочий код и динамичный шоурилл на однотонном фоне."
